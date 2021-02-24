@@ -1,0 +1,2 @@
+CR = concatenated repliques, two repliques from User 1 were concatenated into one\
+<NM> token shows the beggining of next replique of the same user
