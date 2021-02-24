@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
-.vscond/
+.vscode/
 archive/
+models/
 zzz.ipynb 
 zzz.py
